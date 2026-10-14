@@ -1,0 +1,13 @@
+{
+  "name": "student-app",
+  "version": "1.0.0",
+  "description": "Express API for managing students with separate routes and controllers",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
